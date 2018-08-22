@@ -218,3 +218,259 @@ Name     : I Want It That Way
 Link     : https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
 Album    : The Hits--Chapter One
 
+movie-this 28 days later
+Title           : 28 Days Later...
+Release Year    : 2002
+IMDB Rating     : 7.6
+Rotten Tomatoes : 86%
+Country         : UK
+Language        : English, Spanish
+Plot Synopsis   : Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.
+Actors          : Alex Palmer, Bindu De Stoppani, Jukka Hiltunen, David Schneider
+
+movie-this the bridges
+Title           : The Bridges
+Release Year    : 2012
+IMDB Rating     : N/A
+Rotten Tomatoes : No Rating Available
+Country         : USA
+Language        : English
+Plot Synopsis   : For the last seven years, John has tried and succeeded to provide everything his wife Lisa has ever wanted, with the exception of one thing... a child. Lisa's love for John has begun to ...
+Actors          : Mira Layne, Alain Saadeh, David Stanford
+
+movie-this whatever works
+Title           : Whatever Works
+Release Year    : 2009
+IMDB Rating     : 7.2
+Rotten Tomatoes : 49%
+Country         : USA, France
+Language        : English
+Plot Synopsis   : A middle-aged, misanthropic divorcée from New York City surprisingly enters a fulfilling, Pygmalion-type relationship with a much younger, unsophisticated Southern girl.
+Actors          : Larry David, Adam Brooks, Lyle Kanouse, Michael McKean
+
+movie-this "whatever works"
+Title           : Whatever Works
+Release Year    : 2009
+IMDB Rating     : 7.2
+Rotten Tomatoes : 49%
+Country         : USA, France
+Language        : English
+Plot Synopsis   : A middle-aged, misanthropic divorcée from New York City surprisingly enters a fulfilling, Pygmalion-type relationship with a much younger, unsophisticated Southern girl.
+Actors          : Larry David, Adam Brooks, Lyle Kanouse, Michael McKean
+
+movie-this "28 days later"
+Title           : 28 Days Later...
+Release Year    : 2002
+IMDB Rating     : 7.6
+Rotten Tomatoes : 86%
+Country         : UK
+Language        : English, Spanish
+Plot Synopsis   : Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.
+Actors          : Alex Palmer, Bindu De Stoppani, Jukka Hiltunen, David Schneider
+
+spotify-this-song "indestructible"
+Artist   : Disturbed
+Name     : Indestructible
+Link     : https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf
+Album    : Indestructible
+
+spotify-this-song "I Want it That Way"
+Artist   : Backstreet Boys
+Name     : I Want It That Way
+Link     : https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album    : The Hits--Chapter One
+
+spotify-this-song the
+Artist   : Zedd
+Name     : The Middle
+Link     : https://open.spotify.com/track/09IStsImFySgyp0pIQdqAc
+Album    : The Middle
+
+spotify-this-song the pretender
+Artist   : Foo Fighters
+Name     : The Pretender
+Link     : https://open.spotify.com/track/7x8dCjCr0x6x2lXKujYD34
+Album    : Echoes, Silence, Patience & Grace
+
+movie-this the matrix
+Title           : The Matrix
+Release Year    : 1999
+IMDB Rating     : 8.7
+Rotten Tomatoes : 87%
+Country         : USA
+Language        : English
+Plot Synopsis   : A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors          : Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+
+my-tweets [object Object]
+Wed Aug 22 01:08:29 +0000 2018
+   test tweet
+my-tweets {"screen_name":"@eric46781484"}
+Wed Aug 22 01:08:29 +0000 2018
+   test tweet
+my-tweets {"screen_name":"@eric46781484"}
+Wed Aug 22 01:08:39 +0000 2018
+   test tweet 2Wed Aug 22 01:08:29 +0000 2018
+   test tweet
+my-tweets {"screen_name":"@eric46781484"}
+Wed Aug 22 01:08:39 +0000 2018
+   test tweet 2
+Wed Aug 22 01:08:29 +0000 2018
+   test tweet
+
+my-tweets {"screen_name":"@eric46781484"}
+Wed Aug 22 01:08:39 +0000 2018
+   test tweet 2
+Wed Aug 22 01:08:29 +0000 2018
+   test tweet
+
+my-tweets {"screen_name":"@eric46781484"}
+Wed Aug 22 01:28:01 +0000 2018
+   test 3
+Wed Aug 22 01:08:39 +0000 2018
+   test tweet 2
+Wed Aug 22 01:08:29 +0000 2018
+   test tweet
+
+movie-this "whatever works"
+Title           : Whatever Works
+Release Year    : 2009
+IMDB Rating     : 7.2
+Rotten Tomatoes : 49%
+Country         : USA, France
+Language        : English
+Plot Synopsis   : A middle-aged, misanthropic divorcée from New York City surprisingly enters a fulfilling, Pygmalion-type relationship with a much younger, unsophisticated Southern girl.
+Actors          : Larry David, Adam Brooks, Lyle Kanouse, Michael McKean
+
+movie-this "28 days later"
+Title           : 28 Days Later...
+Release Year    : 2002
+IMDB Rating     : 7.6
+Rotten Tomatoes : 86%
+Country         : UK
+Language        : English, Spanish
+Plot Synopsis   : Four weeks after a mysterious, incurable virus spreads throughout the UK, a handful of survivors try to find sanctuary.
+Actors          : Alex Palmer, Bindu De Stoppani, Jukka Hiltunen, David Schneider
+
+my-tweets {"screen_name":"@eric46781484"}
+Wed Aug 22 01:28:01 +0000 2018
+   test 3
+Wed Aug 22 01:08:39 +0000 2018
+   test tweet 2
+Wed Aug 22 01:08:29 +0000 2018
+   test tweet
+
+spotify-this-song "indestructible"
+Artist   : Disturbed
+Name     : Indestructible
+Link     : https://open.spotify.com/track/42ZVk59gT4tMlrZmd8Ijxf
+Album    : Indestructible
+
+spotify-this-song "I Want it That Way"
+Artist   : Backstreet Boys
+Name     : I Want It That Way
+Link     : https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Album    : The Hits--Chapter One
+
+movie-this mr nobody.
+Title           : Mr. Nobody
+Release Year    : 2009
+IMDB Rating     : 7.9
+Rotten Tomatoes : 66%
+Country         : Belgium, Germany, Canada, France, USA, UK
+Language        : English, Mohawk
+Plot Synopsis   : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors          : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+movie-this 
+Title           : undefined
+Release Year    : undefined
+IMDB Rating     : undefined
+Rotten Tomatoes : No Rating Available
+Country         : undefined
+Language        : undefined
+Plot Synopsis   : undefined
+Actors          : undefined
+
+movie-this 
+Title           : undefined
+Release Year    : undefined
+IMDB Rating     : undefined
+Rotten Tomatoes : No Rating Available
+Country         : undefined
+Language        : undefined
+Plot Synopsis   : undefined
+Actors          : undefined
+
+movie-this Mr. Nobody.
+Title           : Mr. Nobody
+Release Year    : 2009
+IMDB Rating     : 7.9
+Rotten Tomatoes : No Rating Available
+Country         : Belgium, Germany, Canada, France, USA, UK
+Language        : English, Mohawk
+Plot Synopsis   : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors          : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+movie-this Mr. Nobody.
+Title           : Mr. Nobody
+Release Year    : 2009
+IMDB Rating     : 7.9
+Rotten Tomatoes : 66%
+Country         : Belgium, Germany, Canada, France, USA, UK
+Language        : English, Mohawk
+Plot Synopsis   : A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors          : Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+
+movie-this ass
+Title           : Ass
+Release Year    : 1971
+IMDB Rating     : 7.0
+Rotten Tomatoes : No Rating Available
+Country         : USA
+Language        : N/A
+Plot Synopsis   : N/A
+Actors          : N/A
+
+spotify-this-song The Sign
+Artist   : MihTy
+Name     : The Light
+Link     : https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
+Album    : The Light
+
+spotify-this-song the sign
+Artist   : MihTy
+Name     : The Light
+Link     : https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
+Album    : The Light
+
+spotify-this-song this calling
+Artist   : All That Remains
+Name     : This Calling
+Link     : https://open.spotify.com/track/2vH5Fy44mcCDUrUk0XbvfH
+Album    : The Fall Of Ideals
+
+spotify-this-song the sign
+Artist   : MihTy
+Name     : The Light
+Link     : https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
+Album    : The Light
+
+spotify-this-song The Sign
+Artist   : Ace of Base
+Name     : The Sign
+Link     : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album    : The Sign (US Album) [Remastered]
+
+spotify-this-song this calling
+Artist   : All That Remains
+Name     : This Calling
+Link     : https://open.spotify.com/track/2vH5Fy44mcCDUrUk0XbvfH
+Album    : The Fall Of Ideals
+
+spotify-this-song The Sign
+Artist   : Ace of Base
+Name     : The Sign
+Link     : https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Album    : The Sign (US Album) [Remastered]
+
