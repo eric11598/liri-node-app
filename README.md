@@ -38,6 +38,6 @@ Actors in the movie.
 
 *Takes command line inputs from a file random.txt and runs them
 
-###Extra Features
+### Extra Features
 *Each command gets loggeed to a text file, log.txt
 *The do what it says function is configured to accept multiple inputs as long as theyre on separate lines
